@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="tk.cheuksblog.thedoodler.MainActivity" >
+
+    <item android:id="@+id/brush_settings"
+        android:title="@string/brush_settings"></item><item android:id="@+id/clear_screen" android:title="@string/clear_screen"></item><item android:id="@+id/save_item" android:title="@string/save_txt"></item><item android:id="@+id/load_item" android:title="@string/load_txt"></item><item android:id="@+id/import_pdf" android:title="@string/import_txt"></item>
+        <item android:id="@+id/help" android:title="@string/help_txt"></item>
+        <item android:id="@+id/about" android:title="@string/about_txt"></item>
+        
+        
+        
+        
+        
+    
+
+</menu>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">The Doodler</string>
+    <string name="app_description">The one where you draw things</string>
+    
+    <string name="brush_settings">Brush Settings</string>
+    <string name="clear_screen">Clear Screen</string>
+    <string name="save_txt">Save</string>
+    <string name="load_txt">Load</string>
+    <string name="import_txt">Import PDF</string>
+    <string name="help_txt">Help</string>
+    <string name="about_txt">About</string>
+    
+    <string name="foreground_hint">Foreground</string>
+    <string name="background_hint">Background</string>
+    
+    <string name="alpha_txt">Alpha</string>
+    <string name="red_txt">R</string>
+    <string name="green_txt">G</string>
+    <string name="blue_txt">B</string>
+    <string name="size_txt">Brush Size</string>
+    <string name="done_txt">Done</string>
+    
+    <string name="api_nosupport">Sorry, your device doesn\'t have the API to support this feature.</string>
+    
+    <string name="help_text_docs">Welcome to The Doodler! The screen you start off with is the main canvas.
+        The 2 buttons on the top are the colours. Tap on a button to select the colour, then trace your finger on the
+        canvas below to draw!\nTo change colours, hold on to the buttons on top (either) to take you to the colour select
+        page. Choose your colour, brush size, then press the Done button (or the back key on your phone).\nTo save, go to
+        the menu and press Save.\nTo load an image, press the Load.\nTo clear the canvas off, press Clear Screen.\n
+        To import a PDF file and draw on it, your phone must have Android Lollipop or a higher version (API 21).
+        It is still in testing.</string>
+
+</resources>
